@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "jkt-temp-heatmap",
+    "title": "Jakarta Temperature Heatmap",
+    "color": "#E85D3A",
+    "pattern": "radial-gradient",
+    "patternOpacity": 0.08,
+    "status": "live"
+  },
+  {
+    "slug": "padang-culinary-map",
+    "title": "Padang Culinary Map",
+    "color": "#2D6A4F",
+    "pattern": "diagonal-lines",
+    "patternOpacity": 0.06,
+    "status": "planned"
+  },
+  {
+    "slug": "geo-data-explorer",
+    "title": "Geo Data Explorer",
+    "color": "#3A6BE8",
+    "pattern": "dots",
+    "patternOpacity": 0.07,
+    "status": "coming soon"
+  },
+  {
+    "slug": "transit-flow-viz",
+    "title": "Transit Flow Visualization",
+    "color": "#8B5CF6",
+    "pattern": "grid",
+    "patternOpacity": 0.06,
+    "status": "coming soon"
+  },
+  {
+    "slug": "weather-patterns",
+    "title": "Weather Patterns",
+    "color": "#D97706",
+    "pattern": "horizontal-lines",
+    "patternOpacity": 0.07,
+    "status": "coming soon",
+    "externalUrl": "https://example.com"
+  }
+]

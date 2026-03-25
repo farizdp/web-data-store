@@ -5,6 +5,7 @@
     "color": "#E85D3A",
     "pattern": "radial-gradient",
     "patternOpacity": 0.08,
+    "tags": ["dataviz", "maps"],
     "status": "live"
   },
   {
@@ -13,7 +14,8 @@
     "color": "#2D6A4F",
     "pattern": "diagonal-lines",
     "patternOpacity": 0.06,
-    "status": "planned"
+    "status": "planned",
+    "tags": ["dataviz", "maps"]
   },
   {
     "slug": "financial-compass-id",
@@ -22,6 +24,7 @@
     "pattern": "dots",
     "patternOpacity": 0.07,
     "status": "live",
+    "tags": ["web-app", "fintech"],
     "externalUrl": "https://financial-compass-id.netlify.app"
   },
   {

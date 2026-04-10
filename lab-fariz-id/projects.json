@@ -28,11 +28,12 @@
     "externalUrl": "https://financial-compass-id.netlify.app"
   },
   {
-    "slug": "x-tweet-exporter",
-    "title": "X Tweet Exporter",
+    "slug": "x-twitter-exporter",
+    "title": "X Twitter Exporter",
     "color": "#8B5CF6",
     "pattern": "grid",
     "patternOpacity": 0.06,
+    "tags": ["web-app", "add-on browser"],
     "status": "live"
   },
   {

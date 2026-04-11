@@ -14,8 +14,8 @@
     "color": "#2D6A4F",
     "pattern": "diagonal-lines",
     "patternOpacity": 0.06,
-    "status": "live",
-    "tags": ["web-app", "maps"]
+    "tags": ["web-app", "maps"],
+    "status": "live"
   },
   {
     "slug": "financial-compass-id",

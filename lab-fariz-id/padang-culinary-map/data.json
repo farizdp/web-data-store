@@ -1,0 +1,228 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "RM Lamun Ombak",
+      "description": "Jl. Khatib Sulaiman No.99, Ulak Karang Selatan, Kec. Padang Utara, Kota Padang, Sumatera Barat",
+      "lat": -0.9084596757401847,
+      "lng": 100.35337841951917,
+      "category": "Nasi Padang",
+      "hours": "07.30 - 21.30",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoQ6nFahD52ze5oO_QO86HBwaM_lqloXzpPuWDb3dBTAGTS3yea9LxiwWSSYygrKNNtN-bTUfBTxX27dqh09_HJd1LcwDJL15wCNO1SIc3AYSPLqJyQ_TWFvFneA1pIY9JXF-JpuTnvqNf-=w408-h725-k-no",
+      "menu": ["Ayam Pop", "Bebek Goreng Cabai Hijau"]
+    },
+    {
+      "id": 2,
+      "name": "RM Keluarga",
+      "description": "Jl. S. Parman No.231, Ulak Karang Utara, Kec. Padang Utara, Kota Padang, Sumatera Barat 25133",
+      "lat": -0.9056346666941147,
+      "lng": 100.35081220932304,
+      "category": "Nasi Padang",
+      "hours": "08.00 - 21.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepvcec5uQWYQweWggPY0nE0NI56WmuuyH1c4TZHIbniqpWZc4kjiD2pMyGEx5aWAEN1npS4H7-KsQ6Nm6BEkCFxgRKo0KC_YOys1UZSyUUhIHF5YnbZ-MIIQdlNShNSzPFzb8ng=w427-h240-k-no",
+      "menu": ["Gulai Kepala Ikan"]
+    },
+    {
+      "id": 3,
+      "name": "RM Pauh Piaman",
+      "description": "Jl. Khatib Sulaiman No.63, Lolong Belanti, Kec. Padang Utara, Kota Padang, Sumatera Barat 25173",
+      "lat": -0.9141554793155433,
+      "lng": 100.35782989768566,
+      "category": "Nasi Padang",
+      "hours": "08.00 - 17.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer-Z48ZfJVd3hKKJGJ5UHNqNG4BF_iautL52d-pMdUBfqrDuSKGugQmk2vNzvZe4ugMm4XCFxav6TMPXdemI0ZBUksdi7DxpYOEa_II6wsTa50pfGkif4oheM6VrH3V3whUotZx8T5MpluE=w408-h544-k-no",
+      "menu": ["Ikan Goreng Balado"]
+    },
+    {
+      "id": 4,
+      "name": "RM Pak Gole",
+      "description": "Jl. Ps. Mudik No.1, Pasa Gadang, Kec. Padang Selatan, Kota Padang, Sumatera Barat 25133",
+      "lat": -0.959275043715846,
+      "lng": 100.36714046699558,
+      "category": "Nasi Padang",
+      "hours": "08.00 - 20.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8CzRLQEdnhIyj1C0U003OueXB78OvWSsToz73WnQRWXIGswrNYwn4CbKwCcOX2PNVcISxu4EzcEm_UW4hqLXZt6DAm_1vlAwuEP5xC3gb2UOVoCDEGjWcdKwVdvS-c8VafeWKML0EIBPs=w408-h907-k-no",
+      "menu": ["Dendeng Balado", "Gulai Korma"]
+    },
+    {
+      "id": 5,
+      "name": "RM Bahagia",
+      "description": "Jl. Ujung Gurun No.91A, Padang Pasir, Kec. Padang Barat, Kota Padang, Sumatera Barat 25115",
+      "lat": -0.9348271723297,
+      "lng": 100.35505490196597,
+      "category": "Nasi Padang",
+      "hours": "08.30 - 17.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerQCmVVoFPSFUJByHFvNLJ2cg4uc107Z777kJ7p4hPWLapPQRFm2g-1hLaBAopcB-B-G5QrZiowmOsa08vUbI2bRGbhq-l_PXIKkmGNUKOMlNNe9EFs-aJsajGTjyeyWL3NsPhpx1xgprOE=w408-h306-k-no",
+      "menu": ["Ayam Goreng"]
+    },
+    {
+      "id": 6,
+      "name": "RM Rendang Rajo Rajo",
+      "description": "Jl. Raya Jondul Raya No.2, Rawang, Kec. Padang Selatan, Kota Padang, Sumatera Barat 25122",
+      "lat": -0.983381605850185,
+      "lng": 100.38201500037665,
+      "category": "Nasi Padang",
+      "hours": "10.00 - 17.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerSfIwKaiMK0LzlN9gxHc7_PS9sgxF3G0wO2pl9twYpfaj3Z3nWTnDW7SxGI4YSpn7C8VaBPyhopHj2b5qnQXYpgj-5WLQt5K-lmBhR3GsfvjsVVWtt9j6r1l71ND_2FK_GnLiZScLgzpPw=w408-h306-k-no",
+      "menu": ["Rendang"]
+    },
+    {
+      "id": 7,
+      "name": "RM Pagi Sore",
+      "description": "Jl. Pondok No.143, Kp. Pd., Kec. Padang Barat, Kota Padang, Sumatera Barat 25134",
+      "lat": -0.9573376040589685,
+      "lng": 100.36105591415739,
+      "category": "Nasi Padang",
+      "hours": "08.00 - 21.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweokBSyIPvcM9QqmhnqAKzVIb9ZB6m7loEMj18dy6uWi7E1LROdX2nOY8M_SC8S0hwgNRbIc39bxCZJs2aJwISiynxoA6CrTE1KvAxGbHm_E7dPDU2RwBEjLnpYWX67SY7ylorhXL2_oWw3Y=w408-h306-k-no",
+      "menu": ["Ayam Goreng"]
+    },
+    {
+      "id": 8,
+      "name": "RM Fuja",
+      "description": "Jl. Samudera No.24, Purus, Kec. Padang Barat, Kota Padang, Sumatera Barat 25115",
+      "lat": -0.9414198978450076,
+      "lng": 100.35163683951757,
+      "category": "Seafood",
+      "hours": "10.00 - 22.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweokBSyIPvcM9QqmhnqAKzVIb9ZB6m7loEMj18dy6uWi7E1LROdX2nOY8M_SC8S0hwgNRbIc39bxCZJs2aJwISiynxoA6CrTE1KvAxGbHm_E7dPDU2RwBEjLnpYWX67SY7ylorhXL2_oWw3Y=w408-h306-k-no",
+      "menu": ["Ikan Bakar", "Cumi Bakar", "Udang Bakar"]
+    },
+    {
+      "id": 9,
+      "name": "Kantin Kuliner Mama Bet",
+      "description": "Jl. Olo Ladang No.10, Purus, Kec. Padang Barat, Kota Padang, Sumatera Barat 25115",
+      "lat": -0.943005150013792,
+      "lng": 100.35334545086656,
+      "category": "Sarapan",
+      "hours": "05.00 - 12.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo5VaWSp_2ZELdJKcIpaMZixR_8cqx2L3WJWRHPQcQjIZ9ahOVaBHoQAgKyMlOUJPtZdNPJhkFsTXxpZPC52ov-LNjBi3pS1MrDHE87HEoaTzdWr7KtovpJew0zOAwy-s7cdQM5=w408-h408-k-no",
+      "menu": ["Lontong Gulai"]
+    },
+    {
+      "id": 10,
+      "name": "Sate Bahagia Indah",
+      "description": "Jl. Adinegoro, Parupuk Tabing, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25171",
+      "lat": -0.8681193642307755,
+      "lng": 100.3435417516504,
+      "category": "Sate",
+      "hours": "16.30 - 01.30",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqjr49fiE-M8fhkIChskoPcXBYJSOrwNU5H06URrN58e5ZiMzW-HiKgWbKHnl6eTIwEQHqBRFGOdOAj6cId6r-FN-N50u-hYmaVpQs4c7O_T0eIBpLwUSnB2Q5KeSQjgz6Ko0riFQ=w408-h544-k-no",
+      "menu": ["Sate Padang"]
+    },
+    {
+      "id": 11,
+      "name": "Warung Cokro",
+      "description": "Jl. Nipah No.2e, Berok Nipah, Kec. Padang Barat, Kota Padang, Sumatera Barat",
+      "lat": -0.9612678121523999,
+      "lng": 100.35470423860644,
+      "category": "Sarapan",
+      "hours": "06.30 - 14.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqAefSCcPiv1dKfXgrmNAHYr1kAXMAgC9OG_P9RW-dxRYMzszSeG1mvOOvA5GoSAj_Dk0xmnRmfS4m5xr6wJ0adMj52BmUyUpFokQj6BMAgL9viV9tbkbUgM3SCcFB9QBaHLIIH=w426-h240-k-no",
+      "menu": ["Various"]
+    },
+    {
+      "id": 12,
+      "name": "Malabar Arham",
+      "description": "Jl. Mahakam, Rimbo Kaluang, Kec. Padang Barat, Kota Padang, Sumatera Barat",
+      "lat": -0.9273221053165258,
+      "lng": 100.35495555350433,
+      "category": "Martabak",
+      "hours": "15.00 - 23.30",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqalwsi0wCR83nOJnGxdoYuCiDFVTFV6MEq57pvy5WMR8jhu2jzKqJe_g5CNI9aQgmlJy40OlRRA-e_h6eH86qQ-4ZyN6_2UFicDKT-0RYSbL2EWeLRzjrsNB0Llyjn8Se6Nv0=w415-h240-k-no",
+      "menu": ["Martabak Mesir", "Martabak Malabar Spesial"]
+    },
+    {
+      "id": 13,
+      "name": "Warkop Nanyo Baru",
+      "description": "Jl. Pondok No.88e, Kp. Pd., Kec. Padang Selatan, Kota Padang, Sumatera Barat 25134",
+      "lat": -0.9590839696083703,
+      "lng": 100.36233491685358,
+      "category": "Sarapan",
+      "hours": "07.00 - 16.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweodRPLu_H-C45237e7NDAoYV4s2dGP4GIbUYub9PHqOBJ2VYJZvf_9NeoM68zs96bdVmOX6AJgLrgRzw3ENc8awp1x6vp0197RJfMyx7wllqr88uTrcluurX_fNjDK5YUkGM_LY=w408-h544-k-no",
+      "menu": ["Kopi"]
+    },
+    {
+      "id": 14,
+      "name": "Omasemi",
+      "description": "Jl. Palupuh No.16, Jati Baru, Kec. Padang Timur, Kota Padang, Sumatera Barat 25129",
+      "lat": -0.9381165955201105,
+      "lng": 100.3653445384658,
+      "category": "Sarapan",
+      "hours": "07.00 - 17.30",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepju-46kUBveqFC0KEip1ITFW6ckRnFwzd8xAhN8_4R0meUo_G7mHcOWlwQcLA7Zz-EFzKStBFGUsnOUilrRfqHodP-DqYHPmMTPEeiurGzk2bsXrpGsSU3nk0g60hp7x8WRbE=w408-h544-k-no",
+      "menu": ["Mie Ayam", "Bubur"]
+    },
+    {
+      "id": 15,
+      "name": "Sate Manang Kabau",
+      "description": "Jl. Khatib Sulaiman No.15, Lolong Belanti, Kec. Padang Utara, Kota Padang, Sumatera Barat 25132",
+      "lat": -0.922161964032474,
+      "lng": 100.36130884254959,
+      "category": "Sarapan",
+      "hours": "07.00 - 23.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweppDIJTYAgiYL0WuKMH0sXjE7TUdQpD0ad6lLpXVmTfP4pfcqMU74SSzkPh-Jlpyn646rqULf-ENvgIu6UnF-H-KRKHhSIxeUkKr4aHpRQnbkiwXQEygCu5DEpaZNvkQzzy6ldg=w408-h306-k-no",
+      "menu": ["Sate Padang", "Pisang Baka Santan"]
+    },
+    {
+      "id": 16,
+      "name": "Es Durian Iko Gantinyo",
+      "description": "Jl. Pulau Karam Dalam No.9, Kp. Pd., Kec. Padang Barat, Kota Padang, Sumatera Barat 25119",
+      "lat": -0.9591843910443344,
+      "lng": 100.36088264422096,
+      "category": "Dessert",
+      "hours": "09.00 - 22.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqN-kx8keuZvMhID104XokcDrccsLj8ZbkbvLKKPLFMQZDJJIzwXfWgjIuLvfPZh8tMDOr0uAFUSGA__gLr5r08Rh_EISoFhdYhC8AAVNNb0AcFZ1q82_VDoBW6o2bhrCzADoHNkQ=w493-h240-k-no",
+      "menu": ["Sate Padang", "Pisang Baka Santan"]
+    },
+    {
+      "id": 17,
+      "name": "Kopmil Om Ping Pondok",
+      "description": "Jl. Niaga No.289, Kp. Pd., Kec. Padang Selatan, Kota Padang, Sumatera Barat 25134",
+      "lat": -0.9615801164964455,
+      "lng": 100.36270482396664,
+      "category": "Dessert",
+      "hours": "10.00 - 23.00",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepn5nmEIGbJmTSweBrYs19r8rmt4VZnLzbnwtl2mIE7ZO21Hj0CvnoHgPHpQ9Aq_dZgDKzoXkHJ5kVk1rzKWo6uwhj4Eix16eBZtwtX0FtviuHmEMWlODLnFkMCxwwG1qOIRLLf=w408-h544-k-no",
+      "menu": ["Sate Padang", "Pisang Baka Santan"]
+    }
+  ],
+  "routes": [
+    {
+      "id": "utara-simpel",
+      "name": "Utara Simpel",
+      "description": "Rute singkat di jantung Padang Utara. Mulai dengan sate pagi di Khatib Sulaiman, makan siang nasi Padang lengkap, lalu tutup malam dengan sate legendaris.",
+      "estimatedTime": "1 hari",
+      "stops": [15, 1, 10]
+    },
+    {
+      "id": "barat-pantai",
+      "name": "Barat Pantai",
+      "description": "Rute sepanjang sisi barat kota menuju laut. Sarapan lontong gulai di pagi buta, siang nasi Padang sederhana, malam ditutup dengan seafood bakar tepi Samudera.",
+      "estimatedTime": "1 hari",
+      "stops": [9, 5, 8]
+    },
+    {
+      "id": "timur-tenang",
+      "name": "Timur Tenang",
+      "description": "Eksplor sisi Padang Timur yang lebih sepi. Bubur dan mie ayam sebagai pembuka, ikan goreng balado siang hari, dan martabak Malabar sebagai penutup malam.",
+      "estimatedTime": "1 hari",
+      "stops": [14, 3, 12]
+    },
+    {
+      "id": "selatan-pondok",
+      "name": "Selatan Pondok",
+      "description": "Napak tilas kuliner kawasan Pondok dan Pasar Gadang. Kopi sarapan di warkop tua, dua meja makan siang berurutan yang wajib dicoba, lalu ditutup dessert es durian.",
+      "estimatedTime": "1 hari",
+      "stops": [13, 7, 4, 16]
+    },
+    {
+      "id": "utara-ke-selatan",
+      "name": "Utara ke Selatan",
+      "description": "Perjalanan kuliner lintas kecamatan dari Berok Nipah di barat hingga Rawang di selatan. Dua perhentian makan siang dengan karakter berbeda, malam nongkrong di Pondok.",
+      "estimatedTime": "1 hari",
+      "stops": [11, 2, 6, 17]
+    }
+  ]
+}

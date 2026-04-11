@@ -14,8 +14,8 @@
     "color": "#2D6A4F",
     "pattern": "diagonal-lines",
     "patternOpacity": 0.06,
-    "status": "planned",
-    "tags": ["dataviz", "maps"]
+    "status": "live",
+    "tags": ["web-app", "maps"]
   },
   {
     "slug": "financial-compass-id",

@@ -37,8 +37,8 @@
     "status": "live"
   },
   {
-    "slug": "dummy-02",
-    "title": "dummy-02",
+    "slug": "gempa-lunar-viz",
+    "title": "Gempa Lunar Viz",
     "color": "#D97706",
     "pattern": "horizontal-lines",
     "patternOpacity": 0.07,

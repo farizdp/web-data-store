@@ -2,6 +2,7 @@
   "version": 1,
   "categories": [
     { "id": "c-tech", "name": "Teknologi", "color": "#0066FF" },
+    { "id": "c-ai", "name": "AI", "color": "#7C3AED" },
     { "id": "c-design", "name": "Desain", "color": "#FF3366" },
     { "id": "c-engineering", "name": "Engineering", "color": "#FF6B00" },
     { "id": "c-research", "name": "Research", "color": "#00B894" }
@@ -9,6 +10,7 @@
   "feeds": [
     { "id": "f-verge", "url": "https://www.theverge.com/rss/index.xml", "name": "The Verge", "category": "c-tech" },
     { "id": "f-ars", "url": "https://feeds.arstechnica.com/arstechnica/index", "name": "Ars Technica", "category": "c-tech" },
+    { "id": "f-huggingface", "url": "https://huggingface.co/blog/feed.xml", "name": "Hugging Face", "category": "c-ai" },
     { "id": "f-smashing", "url": "https://www.smashingmagazine.com/feed/", "name": "Smashing Magazine", "category": "c-design" },
     { "id": "f-fb-eng", "url": "https://engineering.fb.com/feed/", "name": "Meta Engineering", "category": "c-engineering" },
     { "id": "f-grab-eng", "url": "https://engineering.grab.com/feed", "name": "Grab Engineering", "category": "c-engineering" },
@@ -20,6 +22,7 @@
     { "id": "f-medium-eng", "url": "https://medium.engineering/feed", "name": "Medium Engineering", "category": "c-engineering" },
     { "id": "f-github-eng", "url": "https://github.blog/engineering/feed/", "name": "GitHub Engineering", "category": "c-engineering" },
     { "id": "f-ebay", "url": "https://www.ebayinc.com/stories/news/rss/", "name": "eBay Engineering", "category": "c-engineering" },
-    { "id": "f-canva-eng", "url": "https://www.canva.dev/blog/engineering/feed.xml", "name": "Canva Engineering", "category": "c-engineering" }
+    { "id": "f-canva-eng", "url": "https://www.canva.dev/blog/engineering/feed.xml", "name": "Canva Engineering", "category": "c-engineering" },
+    { "id": "f-roku-eng", "url": "https://engineering.roku.com/feed", "name": "Roku Engineering", "category": "c-engineering" }
   ]
 }
